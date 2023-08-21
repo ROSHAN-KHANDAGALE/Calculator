@@ -30,6 +30,13 @@ The calculator will appear on the screen, and you can start performing calculati
 - **History Log:** Implement a history log to keep track of previous calculations.
 
 ## Previews
+<p align = 'center'>
+  <img width = '250' height = '350' src = 'https://github.com/ROSHAN-KHANDAGALE/Calculator/assets/92646499/d67e1a16-8cdc-460b-8dac-443cce224344'>
+  <img width = '250' height = '350' src = 'https://github.com/ROSHAN-KHANDAGALE/Calculator/assets/92646499/944614ee-eb46-4658-ab4c-4aad985ec451'> 
+  <img width = '250' height = '350' src = 'https://github.com/ROSHAN-KHANDAGALE/Calculator/assets/92646499/298e89cb-2894-407f-a02b-7e9e5363481c'>
+  <img width = '250' height = '350' src = 'https://github.com/ROSHAN-KHANDAGALE/Calculator/assets/92646499/ac98f163-494d-4e15-bd35-05c52daf9fd9'> 
+  <img width = '250' height = '350' src = 'https://github.com/ROSHAN-KHANDAGALE/Calculator/assets/92646499/df1b091d-85f2-4637-96a7-3326e636e894'>
+</p>
 
 ---
 
